@@ -17,6 +17,13 @@
 * Last Updated 2022-03-10 0931
 */
 
+/*
+HK
+
+DOCS: https://docs.rakwireless.com/Product-Categories/WisDuo/RAK811-Module/AT-Command-Manual
+
+*/
+
 enum Channels {
     //% block="One"    
     One = 1,
