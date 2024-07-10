@@ -20,7 +20,7 @@
 /*
 HK
 
-DOCS: https://docs.rakwireless.com/Product-Categories/WisDuo/RAK811-Module/AT-Command-Manual
+DOCS: https://github.com/RAKWireless/RAK811_LoRaNode/blob/master/doc/Software/RAK811%C2%A0Lora%C2%A0AT%C2%A0Command%C2%A0V1.4.pdf
 
 */
 
