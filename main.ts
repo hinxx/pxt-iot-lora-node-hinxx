@@ -664,7 +664,7 @@ namespace IotLoRaNode {
 
         basic.pause(75)
         //Set to use LoRaWAN Mode
-        serial.writeString("at+txstop\r\n");
+        serial.writeString("at+tx_stop\r\n");
         serial.readLine()
 
     }
@@ -675,7 +675,7 @@ namespace IotLoRaNode {
 
         basic.pause(75)
         //Set to use LoRaWAN Mode
-        serial.writeString("at+rxstop\r\n");
+        serial.writeString("at+rx_stop\r\n");
         serial.readLine()
 
     }
